@@ -1,7 +1,9 @@
-public class hello{
+//prints "Hello World" as the classic Java program
 
-  public static void main(String args[]){
+public class hello
+{
+  public static void main(String args[])
+  {
      System.out.println("Hello World");
   }
-  
 }
